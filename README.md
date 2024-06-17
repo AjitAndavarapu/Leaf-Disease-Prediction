@@ -1,1 +1,2 @@
 # Leaf-Disease-Prediction
+The Leaf Disease Prediction project aims to develop a robust and efficient system for identifying and predicting diseases in plant leaves. Leveraging advanced machine learning and image processing techniques, the project seeks to provide farmers and agricultural professionals with a tool to detect early signs of diseases, thereby enabling timely intervention and preventing significant crop losses.
